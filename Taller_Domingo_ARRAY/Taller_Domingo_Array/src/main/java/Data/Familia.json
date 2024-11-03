@@ -1,0 +1,710 @@
+[
+  {
+    "id": 1,
+    "canton": "Zamora",
+    "apellidoPaterno": "Ruiz",
+    "apellidoMaterno": "Tinoco",
+    "integrantes": 4,
+    "tieneGenerador": false
+  },
+  {
+    "id": 2,
+    "canton": "Malacatos",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Blacio",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1500.5,
+      "consumoXHora": 5.0,
+      "energiaGenerada": 10.0,
+      "uso": "Residencial"
+    }
+  },
+  {
+    "id": 3,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 4,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 5,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 6,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 7,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 8,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 9,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 10,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 11,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 12,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 13,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 14,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 15,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 16,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 17,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 18,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 19,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 20,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 21,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 22,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 23,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 24,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 25,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 26,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 27,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 28,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 29,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 30,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 31,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 32,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 33,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 34,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 35,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 36,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 37,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 38,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 39,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 40,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 41,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 42,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 43,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 44,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 45,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 46,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 47,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 48,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 49,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 50,
+    "canton": "Zamora",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 4,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  },
+  {
+    "id": 51,
+    "canton": "Zamoraaaaa",
+    "apellidoPaterno": "Tandazo",
+    "apellidoMaterno": "Ruiz",
+    "integrantes": 44,
+    "tieneGenerador": true,
+    "generador": {
+      "costo": 1000.0,
+      "consumoXHora": 500.0,
+      "energiaGenerada": 400.0,
+      "uso": "aaaaa"
+    }
+  }
+]
